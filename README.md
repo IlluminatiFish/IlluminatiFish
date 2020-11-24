@@ -9,6 +9,13 @@ My name is IlluminatiFish, I am a developer that can code in a variety of langua
   - C 🤺 (for Computing Simulations)
  
  
+ Some of my interests are:
+ 
+  - Cyber Forensics ⚔️
+  - Cyber Security 🔥
+  - Reverse Engineering 🗡️
+  - Malware Analysis 🛡️
+ 
 ⛷️ I am currently learning JavaScript to further my knowledge in Web Development
 
 🔥 I also enjoy Cyber Security and Cyber Forensics as well as being a part of the infosec community on Twitter (https://twitter.com/fish_illuminati) 🔌
