@@ -1,16 +1,18 @@
-### Hi there 👋
+### Description
 
-<!--
-**IlluminatiFish/IlluminatiFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is IlluminatiFish, I am a developer that can code in a variety of languages such as:
 
-Here are some ideas to get you started:
+  - Java ☕ (for Minecraft Development)
+  - Python 🐍 (for Cyber Security & Forensics)
+  - C# 🕴️ (for Game Development)
+  - C++ 🏌️ (for Computing Simulations)
+  - C 🤺 (for Computing Simulations)
+ 
+ 
+⛷️ I am currently learning JavaScript to further my knowledge in Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 I also enjoy Cyber Security and Cyber Forensics as well as being a part of the infosec community on Twitter (https://twitter.com/fish_illuminati) 🔌
+
+✨ I also have created some minecraft plugins and skripts in the past on the minecraft plugin website SpigotMC (https://www.spigotmc.org/resources/authors/illumaintfish.503004/) 🔌
+
+
