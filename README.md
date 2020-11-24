@@ -11,14 +11,14 @@ My name is IlluminatiFish, I am a developer that can code in a variety of langua
  
  Some of my interests are:
  
-  - Cyber Forensics ⚔️
-  - Cyber Security 🔥
+  - Digital Forensics ⚔️
   - Reverse Engineering 🗡️
   - Malware Analysis 🛡️
+  - Web Application Security 🏴‍☠️
  
 ⛷️ I am currently learning JavaScript to further my knowledge in Web Development
 
-🔥 I also enjoy Cyber Security and Cyber Forensics as well as being a part of the infosec community on Twitter (https://twitter.com/fish_illuminati) 🔌
+🔥 I also enjoy Cyber Security and Digital Forensics as well as being a part of the infosec community on Twitter (https://twitter.com/fish_illuminati) 🔌
 
 ✨ I also have created some minecraft plugins and skripts in the past on the minecraft plugin website SpigotMC (https://www.spigotmc.org/resources/authors/illumaintfish.503004/) 🔌
 
