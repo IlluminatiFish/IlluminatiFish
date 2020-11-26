@@ -16,7 +16,7 @@ My name is IlluminatiFish, I am a developer that can code in a variety of langua
   - Malware Analysis 🛡️
   - Web Application Security 🏴‍☠️
   - Number Theory 🧮
-  - The Coastline Paradox 🏖️
+  - Measure Theory (The Coastline Paradox 🏖️)
  
 ⛷️ I am currently learning JavaScript to further my knowledge in Web Development
 
