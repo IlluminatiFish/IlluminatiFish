@@ -15,6 +15,8 @@ My name is IlluminatiFish, I am a developer that can code in a variety of langua
   - Reverse Engineering 🗡️
   - Malware Analysis 🛡️
   - Web Application Security 🏴‍☠️
+  - Number Theory 🧮
+  - The Coastline Paradox 🏖️
  
 ⛷️ I am currently learning JavaScript to further my knowledge in Web Development
 
