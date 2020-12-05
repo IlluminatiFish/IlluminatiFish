@@ -26,5 +26,5 @@ My name is IlluminatiFish, I am a developer that can code in a variety of langua
 ✨ I also have created some minecraft plugins and skripts in the past on the minecraft plugin website SpigotMC (https://www.spigotmc.org/resources/authors/illumaintfish.503004/) 🔌
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish)](https://twitter.com/fish_illuminati) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFisha&layout=compact)](https://twitter.com/fish_illuminati)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish)](https://twitter.com/fish_illuminati) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&layout=compact)](https://twitter.com/fish_illuminati)
 
