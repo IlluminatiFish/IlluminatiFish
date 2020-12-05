@@ -7,7 +7,8 @@ My name is IlluminatiFish, I am a developer that can code in a variety of langua
   - C# 🕴️ (for Game Development)
   - C++ 🏌️ (for Computing Simulations)
   - C 🤺 (for Computing Simulations)
- 
+  - SQL 🚩 (for Database Management)
+  - HTML, CSS 🎁 (for Web Development)
  
  Some of my interests are:
  
