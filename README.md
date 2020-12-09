@@ -19,7 +19,7 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
 
 ✨ I also have created some minecraft plugins and skripts in the past on the minecraft plugin website SpigotMC (https://www.spigotmc.org/resources/authors/illumaintfish.503004/) 🔌
 
-<h2>Featured Repository</h2>
+**Featured Repository**
 [![Featured Repository](https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=EmailAnalyzer)](https://github.com/IlluminatiFish/EmailAnalyzer)
 
 
