@@ -12,6 +12,7 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
   - Web Application Security 🏴‍☠️
   - Number Theory 🧮
   - Measure Theory (The Coastline Paradox 🏖️)
+  - String Metric Distance Algorithms 🌐
  
 ⛷️ I am currently learning JavaScript to further my knowledge in Web Development
 
