@@ -2,7 +2,7 @@
 
 My name is IlluminatiFish, I am a developer that has knowledge and experience in the following technologies:
 
-  - ![Java](https://img.shields.io/badge/Java-informational?style=plastic&logo=java&logoColor=black&color=c2409f) ![Python](https://img.shields.io/badge/Python-informational?style=plastic&logo=python&logoColor=black&color=c2409f) ![C#](https://img.shields.io/badge/C%23-informational?style=plastic&logo=c-sharp&logoColor=black&color=c2409f) ![C++](https://img.shields.io/badge/C++-informational?style=plastic&logo=c%2B%2B&logoColor=black&color=c2409f) ![C](https://img.shields.io/badge/C-informational?style=plastic&logo=c&logoColor=black&color=c2409f) ![MySQL](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=black&color=c2409f) ![HTML5](https://img.shields.io/badge/HTML5-informational?style=plastic&logo=html5&logoColor=black&color=c2409f) ![CSS3](https://img.shields.io/badge/CSS3-informational?style=plastic&logo=CSS3&logoColor=black&color=c2409f) ![Github](https://img.shields.io/badge/Github-informational?style=plastic&logo=github&logoColor=black&color=c2409f) ![Apache](https://img.shields.io/badge/Apache-informational?style=plastic&logo=apache&logoColor=black&color=c2409f) ![Scala](https://img.shields.io/badge/Scala-informational?style=plastic&logo=scala&logoColor=black&color=c2409f) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-informational?style=plastic&logo=google-cloud&logoColor=black&color=c2409f) 
+  - ![Java](https://img.shields.io/badge/Java-informational?style=plastic&logo=java&logoColor=black&color=f76802) ![Python](https://img.shields.io/badge/Python-informational?style=plastic&logo=python&logoColor=black&color=228ff5) ![C#](https://img.shields.io/badge/C%23-informational?style=plastic&logo=c-sharp&logoColor=black&color=20d623) ![C++](https://img.shields.io/badge/C++-informational?style=plastic&logo=c%2B%2B&logoColor=black&color=9ff723) ![C](https://img.shields.io/badge/C-informational?style=plastic&logo=c&logoColor=black&color=f2f21b) ![MySQL](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=MySQL&logoColor=black&color=b05df0) ![HTML5](https://img.shields.io/badge/HTML5-informational?style=plastic&logo=HTML5&logoColor=black&color=004ffa) ![CSS3](https://img.shields.io/badge/CSS3-informational?style=plastic&logo=CSS3&logoColor=black&color=2ba64e) ![Github](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=github&logoColor=black&color=498391) ![Apache](https://img.shields.io/badge/Apache-informational?style=plastic&logo=apache&logoColor=black&color=c20606) ![Scala](https://img.shields.io/badge/Scala-informational?style=plastic&logo=scala&logoColor=black&color=d15e5e) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-informational?style=plastic&logo=google-cloud&logoColor=black&color=2604d1)
  
  Some of my interests are:
  
@@ -14,7 +14,7 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
   - Measure Theory (The Coastline Paradox 🏖️)
   - String Metric Distance Algorithms 🌐
  
-⛷️ I am currently learning JavaScript to further my knowledge in Web Development
+⛷️ I am currently learning ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=black&color=ffa500) to further my knowledge in Web Development
 
 🔥 I also enjoy Cyber Security and Digital Forensics as well as being a part of the infosec community on Twitter (https://twitter.com/fish_illuminati) 🔌
 
