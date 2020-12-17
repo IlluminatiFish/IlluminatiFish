@@ -23,9 +23,9 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
 **Featured Repository**
 
 
-[![Featured Repository](https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=EmailAnalyzer&theme=radical)](https://github.com/IlluminatiFish/EmailAnalyzer)
+[![Featured Repository](https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=EmailAnalyzer&theme=radical=250x250)](https://github.com/IlluminatiFish/EmailAnalyzer)
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical)](https://twitter.com/fish_illuminati) 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&theme=radical)](https://twitter.com/fish_illuminati) 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical=250x250)](https://twitter.com/fish_illuminati) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&theme=radical=250x250)](https://twitter.com/fish_illuminati) 
 
