@@ -20,12 +20,15 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
 
 ✨ I also have created some minecraft plugins and skripts in the past on the minecraft plugin website SpigotMC (https://www.spigotmc.org/resources/authors/illumaintfish.503004/) 🔌
 
-**Featured Repository**
+![Featured Repository]
 
 
-[![Featured Repository](https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=EmailAnalyzer&theme=radical){:height="700px" width="400px"}](https://github.com/IlluminatiFish/EmailAnalyzer) 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=EmailAnalyzer&theme=radical" width="250" height="250">
 
+![Github Stats]
+<img src="https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical" width="250" height="250">
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical){:height="700px" width="400px"}](https://twitter.com/fish_illuminati) 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&theme=radical){:height="700px" width="400px"}](https://twitter.com/fish_illuminati) 
+![Top Languages]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&theme=radical" width="250" height="250">
+
 
