@@ -21,9 +21,9 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
 <summary>
   Top Repository, Top Language & Github Stats
 </summary>
-<img alt="**Featured Repoistory**" src="https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=EmailAnalyzer&theme=radical" width="400" height="250">
+<img alt="**Featured Repoistory**" src="https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=EmailAnalyzer&theme=radical" width="480" height="250">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical" width="400" height="250">
+<img src="https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical" width="480" height="250">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&theme=radical" width="300" height="250">
 
