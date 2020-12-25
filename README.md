@@ -18,14 +18,10 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
 
 ✨ I also have created some minecraft plugins and skripts in the past on the minecraft plugin website SpigotMC (https://www.spigotmc.org/resources/authors/illumaintfish.503004/) 🔌
 
-<p align="center">
-	<img alt="**Featured Repoistory**" src="https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=EmailAnalyzer&theme=radical" width="400" height="250">
-</p>
+Featured Repoistory #1     |  Featured Repository #2
+:-------------------------:|:-------------------------:
+![EmailAnalyzer](https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=EmailAnalyzer&theme=radical)   |  ![RedirectExplorer](https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=RedirectExplorer&theme=radical)
 
-<p align="center">
-	<img alt="**Featured Repoistory**" src="https://github-readme-stats.vercel.app/api/pin/?username=IlluminatiFish&repo=RedirectExplorer&theme=radical" width="460" height="280">
-</p>
- 
   
 <img src="https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical" width="460" height="250">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&theme=radical" width="300" height="250">
