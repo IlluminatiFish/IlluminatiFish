@@ -18,7 +18,7 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
 
 ✨ I also have created some minecraft plugins and skripts in the past on the minecraft plugin website SpigotMC (https://www.spigotmc.org/resources/authors/illumaintfish.503004/) 🔌
 
-![Visitor Stats](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=IlluminatiFish.IlluminatiFish&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=IlluminatiFish.IlluminatiFish&color=eb200e)
 
 Featured Repoistory #1     |  Featured Repository #2
 :-------------------------:|:-------------------------:
