@@ -12,7 +12,7 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
   - Measure Theory (The Coastline Paradox 🏖️)
   - String Metric Distance Algorithms 🌐
  
-⛷️ I am currently learning ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=black&color=ffa500) to further my knowledge in it, as well as learning about Machine Learning
+⛷️ I am currently learning ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=black&color=ffa500) to further my knowledge in it, as well as learning about Machine Learning and ![Node.JS](https://img.shields.io/badge/NodeJS-informational?style=plastic&logo=node.js&logoColor=black&color=fff450) 
 
 🔥 I also enjoy Cyber Security and Digital Forensics as well as being a part of the infosec community on Twitter (https://twitter.com/fish_illuminati) 🔌
 
