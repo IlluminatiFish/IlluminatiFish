@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/NmHFWcj/jjkj.png"/>
-</p>
 
 
 My name is IlluminatiFish, I am a developer that has knowledge and experience in the following technologies:
