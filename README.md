@@ -16,7 +16,7 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
  
 ⛷️ I am currently learning ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=black&color=ffa500) to further my knowledge in it, as well as learning about Machine Learning and ![Node.JS](https://img.shields.io/badge/NodeJS-informational?style=plastic&logo=node.js&logoColor=black&color=3ce6e6) 
 
-🤺 You can find my featured gist <a href='https://gist.github.com/IlluminatiFish/b4e4298a7ac8a87a4d91b41a33f3cdb4'>here</a>
+🤺 You can find my gists <a href='https://gist.github.com/IlluminatiFish'>here</a>
 
 🔥 I also enjoy Cyber Security and Digital Forensics as well as being a part of the infosec community on Twitter (https://twitter.com/fish_illuminati) 🔌
 
