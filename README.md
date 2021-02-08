@@ -30,5 +30,5 @@ Featured Repoistory #1     |  Featured Repository #2
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical&count_private=true "My Github Stats") ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&theme=radical "Top Languages Used")
+![Github Stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical&count_private=true "My Github Stats") ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&langs_count=7&theme=radical "Top Languages Used")
 
