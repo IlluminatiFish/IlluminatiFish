@@ -22,7 +22,7 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
 
 ✨ I also have created some minecraft plugins and skripts in the past on the minecraft plugin website SpigotMC (https://www.spigotmc.org/resources/authors/illumaintfish.503004/) 🔌
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=IlluminatiFish.IlluminatiFish&color=eb200e)
+![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=IlluminatiFish.IlluminatiFish&color=eb200e)
 
 Featured Repoistory #1     |  Featured Repository #2
 :-------------------------:|:-------------------------:
@@ -30,5 +30,5 @@ Featured Repoistory #1     |  Featured Repository #2
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical "My Github Stats") ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&theme=radical "Top Languages Used")
+![Github Stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical&count_private=true "My Github Stats") ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&theme=radical "Top Languages Used")
 
