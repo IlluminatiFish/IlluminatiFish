@@ -21,7 +21,7 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
  ![Flask](https://img.shields.io/badge/Flask-informational?style=plastic&logo=flask&logoColor=black&color=7f1f32)
  
  **Other Tools:**
- ![YARA](https://img.shields.io/badge/YARA-informational?style=plastic&logo=virustotal&logoColor=black&color=e31041) ![Regex](https://img.shields.io/badge/Regex-informational?style=plastic&logo=textpattern&logoColor=black&color=7f1f66) ![JSON](https://img.shields.io/badge/JSON-informational?style=plastic&logo=json&logoColor=black&color=56a3ab)
+ ![YARA](https://img.shields.io/badge/YARA-informational?style=plastic&logo=virustotal&logoColor=black&color=e31041) ![Regex](https://img.shields.io/badge/Regex-informational?style=plastic&logo=textpattern&logoColor=black&color=7f1f66) ![JSON](https://img.shields.io/badge/JSON-informational?style=plastic&logo=json&logoColor=black&color=56a3ab) ![Jinja](https://img.shields.io/badge/Jinja-informational?style=plastic&logo=jinja&logoColor=black&color=5fa36e)
  
  Some of my interests are:
  
