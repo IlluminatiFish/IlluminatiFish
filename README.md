@@ -50,7 +50,7 @@
   - String Metric Distance Algorithms 🌐
   - Higher Dimension Geometry 📐
   - Superpermutations 🟠
-  - 
+  
 </details>
   
 <details>
