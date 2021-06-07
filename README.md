@@ -45,6 +45,6 @@ My name is IlluminatiFish, I am a developer that has knowledge and experience in
 
 ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=IlluminatiFish.IlluminatiFish&color=eb200e)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=radical&count_private=true "My Github Stats") ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&layout=compact&langs_count=10&theme=radical "Top Languages Used")
+![Github Stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=midnight-purple&count_private=true "My Github Stats") ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&layout=compact&langs_count=25&theme=midnight-purple "Top Languages Used") ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IlluminatiFish&theme=midnight-purple)
 
 ![Codewars](https://www.codewars.com/users/IlluminatiFish/badges/large)
