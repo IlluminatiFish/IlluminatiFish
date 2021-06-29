@@ -31,7 +31,7 @@
  ![Flask](https://img.shields.io/badge/Flask-informational?style=plastic&logo=flask&logoColor=black&color=7f1f32)
  
  **Other Tools:**
- ![YARA](https://img.shields.io/badge/YARA-informational?style=plastic&logo=virustotal&logoColor=black&color=e31041) ![Regex](https://img.shields.io/badge/Regex-informational?style=plastic&logo=textpattern&logoColor=black&color=7f1f66) ![JSON](https://img.shields.io/badge/JSON-informational?style=plastic&logo=json&logoColor=black&color=56a3ab) ![Jinja](https://img.shields.io/badge/Jinja-informational?style=plastic&logo=jinja&logoColor=black&color=5fa36e)
+ ![YARA](https://img.shields.io/badge/YARA-informational?style=plastic&logo=virustotal&logoColor=black&color=e31041) ![Regex](https://img.shields.io/badge/Regex-informational?style=plastic&logo=textpattern&logoColor=black&color=7f1f66) ![JSON](https://img.shields.io/badge/JSON-informational?style=plastic&logo=json&logoColor=black&color=56a3ab) ![Jinja](https://img.shields.io/badge/Jinja-informational?style=plastic&logo=jinja&logoColor=black&color=5fa36e) ![Postman](https://img.shields.io/badge/Postman-informational?style=plastic&logo=postman&logoColor=black&color=b7181a)
 
 
 </details>
