@@ -25,7 +25,7 @@
  ![Git](https://img.shields.io/badge/Git-informational?style=plastic&logo=git&logoColor=black&color=5643ab) ![Github](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=github&logoColor=black&color=498391)
  
  **Cloud Platforms:**
- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-informational?style=plastic&logo=google-cloud&logoColor=black&color=2604d1) ![Heroku](https://img.shields.io/badge/Heroku-informational?style=plastic&logo=heroku&logoColor=black&color=7a64511)
+ ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-informational?style=plastic&logo=google-cloud&logoColor=black&color=2604d1) ![Heroku](https://img.shields.io/badge/Heroku-informational?style=plastic&logo=heroku&logoColor=black&color=7a64511) ![ReplIt](https://img.shields.io/badge/ReplIt-informational?style=plastic&logo=replit&logoColor=black&color=c2809f)
  
  **Frameworks:**
  ![Flask](https://img.shields.io/badge/Flask-informational?style=plastic&logo=flask&logoColor=black&color=7f1f32)
