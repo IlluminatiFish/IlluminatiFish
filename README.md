@@ -22,7 +22,7 @@
  ![HTML5](https://img.shields.io/badge/HTML5-informational?style=plastic&logo=HTML5&logoColor=black&color=004ffa) ![CSS3](https://img.shields.io/badge/CSS3-informational?style=plastic&logo=CSS3&logoColor=black&color=2ba64e) ![Apache](https://img.shields.io/badge/Apache-informational?style=plastic&logo=apache&logoColor=black&color=c20606)
  
  **Version Control:**
- ![Git](https://img.shields.io/badge/Git-informational?style=plastic&logo=git&logoColor=black&color=5643ab) ![Github](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=github&logoColor=black&color=498391)
+ ![Git](https://img.shields.io/badge/Git-informational?style=plastic&logo=git&logoColor=black&color=5643ab) ![Github](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=github&logoColor=black&color=498391) ![Maven](https://img.shields.io/badge/Maven-informational?style=plastic&logo=apachemaven&logoColor=black&color=56f3ab)
  
  **Cloud Platforms:**
  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-informational?style=plastic&logo=google-cloud&logoColor=black&color=2604d1) ![Heroku](https://img.shields.io/badge/Heroku-informational?style=plastic&logo=heroku&logoColor=black&color=7a64511) ![ReplIt](https://img.shields.io/badge/ReplIt-informational?style=plastic&logo=replit&logoColor=black&color=c2809f)
