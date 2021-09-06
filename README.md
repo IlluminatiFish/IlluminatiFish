@@ -2,6 +2,9 @@
 <div align="center">
 
 **My name is IlluminatiFish, I am a developer that has a passion for programming and mathematics**
+ 
+ ![Profile Views](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=IlluminatiFish.IlluminatiFish&color=ffff00)
+ <br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=midnight-purple&count_private=true "My Github Stats") ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&layout=compact&langs_count=25&theme=midnight-purple "Top Languages Used") ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IlluminatiFish&theme=midnight-purple) ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IlluminatiFish&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true)
 </div>
