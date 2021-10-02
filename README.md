@@ -8,7 +8,7 @@
 
 Hi 👋, my name is IlluminatiFish, I am a self-taught developer that has a passion for programming, mathematics and cyber security.
 
-My passion towards developing and problem-solving started at a very young age just as a hobby, now I always strive to improve my skills and learn about new technologies and topics 
+My passion towards developing and problem-solving started at a very young age just as a hobby. Now I always strive to improve my skills and learn about new technologies and topics 
 to the best of my ability. Currently, I use the following technologies for my projects:
 
 
