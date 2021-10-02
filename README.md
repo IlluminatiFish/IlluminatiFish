@@ -1,83 +1,34 @@
 
-<div align="center">
 
-**My name is IlluminatiFish, I am a developer that has a passion for programming and mathematics**
- 
- ![Profile Views](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=IlluminatiFish.IlluminatiFish&color=ffff00)
- <br>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=IlluminatiFish&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=IlluminatiFish&theme=midnight-purple&layout=compact&hide_border=true&langs_count=25">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=IlluminatiFish&theme=midnight-purple&hide_border=true">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=IlluminatiFish&show_icons=true&theme=midnight-purple&count_private=true "My Github Stats") ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluminatiFish&layout=compact&langs_count=25&theme=midnight-purple "Top Languages Used") ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IlluminatiFish&theme=midnight-purple) ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IlluminatiFish&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true)
-</div>
+Hi 👋, my name is IlluminatiFish, I am a self-taught developer that has a passion for programming, mathematics and cyber security.
 
-👇 More about myself below.. 👇
-
-<details>
-<summary>🖥️ Technologies</summary>
+My passion towards developing and problem-solving started at a very young age just as a hobby, now I always strive to improve my skills and learn about new technologies and topics 
+to the best of my ability. Currently, I use the following technologies for my projects:
 
 
-**Programming Languages:**
- ![Java](https://img.shields.io/badge/Java-informational?style=plastic&logo=java&logoColor=black&color=f76802) ![Python](https://img.shields.io/badge/Python-informational?style=plastic&logo=python&logoColor=black&color=228ff5) ![C#](https://img.shields.io/badge/C%23-informational?style=plastic&logo=c-sharp&logoColor=black&color=20d623) ![C++](https://img.shields.io/badge/C++-informational?style=plastic&logo=c%2B%2B&logoColor=black&color=9ff723) ![C](https://img.shields.io/badge/C-informational?style=plastic&logo=c&logoColor=black&color=f2f21b) ![Scala](https://img.shields.io/badge/Scala-informational?style=plastic&logo=scala&logoColor=black&color=d15e5e) 
- 
- **DBMS:**
- ![MySQL](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=MySQL&logoColor=black&color=b05df0) 
- 
- **Web Development:**
- ![HTML5](https://img.shields.io/badge/HTML5-informational?style=plastic&logo=HTML5&logoColor=black&color=004ffa) ![CSS3](https://img.shields.io/badge/CSS3-informational?style=plastic&logo=CSS3&logoColor=black&color=2ba64e) ![Apache](https://img.shields.io/badge/Apache-informational?style=plastic&logo=apache&logoColor=black&color=c20606)
- 
- **Version Control:**
- ![Git](https://img.shields.io/badge/Git-informational?style=plastic&logo=git&logoColor=black&color=5643ab) ![Github](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=github&logoColor=black&color=498391) ![Maven](https://img.shields.io/badge/Maven-informational?style=plastic&logo=apachemaven&logoColor=black&color=56f3ab)
- 
- **Cloud Platforms:**
- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-informational?style=plastic&logo=google-cloud&logoColor=black&color=2604d1) ![Heroku](https://img.shields.io/badge/Heroku-informational?style=plastic&logo=heroku&logoColor=black&color=7a64511) ![ReplIt](https://img.shields.io/badge/ReplIt-informational?style=plastic&logo=replit&logoColor=black&color=c2809f)
- 
- **Frameworks:**
- ![Flask](https://img.shields.io/badge/Flask-informational?style=plastic&logo=flask&logoColor=black&color=7f1f32)
- 
- **Other Tools:**
- ![YARA](https://img.shields.io/badge/YARA-informational?style=plastic&logo=virustotal&logoColor=black&color=e31041) ![Regex](https://img.shields.io/badge/Regex-informational?style=plastic&logo=textpattern&logoColor=black&color=7f1f66) ![JSON](https://img.shields.io/badge/JSON-informational?style=plastic&logo=json&logoColor=black&color=56a3ab) ![Jinja](https://img.shields.io/badge/Jinja-informational?style=plastic&logo=jinja&logoColor=black&color=5fa36e) ![Postman](https://img.shields.io/badge/Postman-informational?style=plastic&logo=postman&logoColor=black&color=b7181a) ![JARM](https://img.shields.io/badge/JARM-informational?style=plastic&logo=salesforce&logoColor=black&color=efb68d)
+<img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=white" /> <img alt="Java" align="center" src="https://img.shields.io/badge/-Java-e66a17?style=flat&logo=Java&logoColor=white" /> <img alt="JSON" align="center" src="https://img.shields.io/badge/-JSON-03ad64?style=flat&logo=json&logoColor=white" /> <img alt="YARA" align="center" src="https://img.shields.io/badge/-YARA-001fe6?style=flat&logo=virustotal&logoColor=white" /> <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML-de6400?style=flat&logo=html5&logoColor=white" /> <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS-6810a3?style=flat&logo=css3&logoColor=white" /> <img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" /> <img alt="Git" align="center" src="https://img.shields.io/badge/-Git-e37f32?style=flat&logo=git&logoColor=white" /> <img alt="Maven" align="center" src="https://img.shields.io/badge/-Maven-540575?style=flat&logo=apachemaven&logoColor=white" /> <img alt="Heroku" align="center" src="https://img.shields.io/badge/-Heroku-8406ba?style=flat&logo=heroku&logoColor=white" /> <img alt="ReplIt" align="center" src="https://img.shields.io/badge/-ReplIt-403f3f?style=flat&logo=replit&logoColor=white" /> <img alt="Flask" align="center" src="https://img.shields.io/badge/-Flask-03a3a6?style=flat&logo=flask&logoColor=white" /> <img alt="Postman" align="center" src="https://img.shields.io/badge/-Postman-ba6906?style=flat&logo=postman&logoColor=white" /> <img alt="RegEx" align="center" src="https://img.shields.io/badge/-RegEx-b51010?style=flat&logo=textpattern&logoColor=white" /> <img alt="Jinja" align="center" src="https://img.shields.io/badge/-Jinja-0dbf60?style=flat&logo=jinja&logoColor=white" />
 
+<br>
 
-</details>
- 
-<details>
-<summary>✨ Interests</summary>
+I also have minor experience in the following technologies:
 
- Some of my interests are:
- 
-  - Digital Forensics ⚔️
-  - Reverse Engineering 🗡️
-  - Malware Analysis 🛡️
-  - Web Application Security 🏴‍☠️
-  - Number Theory 🧮
-  - Measure Theory (The Coastline Paradox 🏖️)
-  - String Metric Distance Algorithms 🌐
-  - Higher Dimension Geometry 📐
-  - Superpermutations 🟠
-  
-</details>
-  
-<details>
-<summary>📜 Learning</summary>
+<img alt="C#" align="center" src="https://img.shields.io/badge/-C%23-088512?style=flat&logo=c-sharp&logoColor=white" /> <img alt=" C++" align="center" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" /> <img alt="Scala" align="center" src="https://img.shields.io/badge/-Scala-c21d3b?style=flat&logo=scala&logoColor=white" /> <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" />
 
-⛷️ I am currently learning ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=black&color=ffa500) in combination with ![ElectronJS](https://img.shields.io/badge/ElectronJS-informational?style=plastic&logo=electron&logoColor=black&color=c2409f) to further my knowledge in ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=black&color=ffa500) itself and desktop application creation using ![ElectronJS](https://img.shields.io/badge/ElectronJS-informational?style=plastic&logo=electron&logoColor=black&color=c2409f)
+<br>
 
-</details>
+Other technologies I have used extensively in the past:
 
-<details>
-<summary>🧭 Hobbies</summary>
-I enjoy playing CodeWars to improve my skill set in the technologies I already know
+<img alt="MySQL" align="center" src="https://img.shields.io/badge/-MySQL-de9000?style=flat&logo=mysql&logoColor=white" /> <img alt="Apache" align="center" src="https://img.shields.io/badge/-Apache-bf36ab?style=flat&logo=apache&logoColor=white" /> <img alt="JARM" align="center" src="https://img.shields.io/badge/-JARM-06b0d6?style=flat&logo=salesforce&logoColor=white" />
 
-![Codewars Dojo](https://www.codewars.com/users/IlluminatiFish/badges/large)
-</details>
+<br>
 
-<details>
-<summary>🏁 Other Information</summary>
+Find me on:
 
-🤺 You can find my gists <a href='https://gist.github.com/IlluminatiFish'>here</a>
-
-🔥 I also enjoy Cyber Security and Digital Forensics as well as being a part of the infosec community on Twitter (https://twitter.com/fish_illuminati) 🔌
-
-✨ I also have created some minecraft plugins and skripts in the past you can find my skripts on the SpigotMC website (https://www.spigotmc.org/resources/authors/illumaintfish.503004/) 🔌
-
-</details>
+<a href="https://twitter.com/fish_illuminati"><img alt="Twitter" align="center" src="https://img.shields.io/badge/-Twitter-06b0d6?style=flat&logo=twitter&logoColor=white" /></a> <a href="https://gist.github.com/IlluminatiFish"><img alt="Gist" align="center" src="https://img.shields.io/badge/-Gist-000000?style=flat&logo=github&logoColor=white" /></a> <a href="https://codewars.com/users/IlluminatiFish"><img alt="Codewars" align="center" src="https://img.shields.io/badge/-Codewars-e61c1c?style=flat&logo=codewars&logoColor=white" /></a>
 
