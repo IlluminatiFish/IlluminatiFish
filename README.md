@@ -35,8 +35,6 @@ Currently Learning:
 
 <br>
 
-<div align="center">
-  Contact Me
-  
-  <a href="https://twitter.com/fish_illuminati"><img alt="Twitter" align="center" src="https://img.shields.io/badge/-Twitter-06b0d6?style=flat&logo=twitter&logoColor=white" /></a> <a href="https://gist.github.com/IlluminatiFish"><img alt="Gist" align="center" src="https://img.shields.io/badge/-Gist-000000?style=flat&logo=github&logoColor=white" /></a> <a href="https://codewars.com/users/IlluminatiFish"><img alt="Codewars" align="center" src="https://img.shields.io/badge/-Codewars-e61c1c?style=flat&logo=codewars&logoColor=white" /></a>
-</div>
+Contact Me
+
+<a href="https://twitter.com/fish_illuminati"><img alt="Twitter" align="center" src="https://img.shields.io/badge/-Twitter-06b0d6?style=flat&logo=twitter&logoColor=white" /></a> <a href="https://gist.github.com/IlluminatiFish"><img alt="Gist" align="center" src="https://img.shields.io/badge/-Gist-000000?style=flat&logo=github&logoColor=white" /></a> <a href="https://codewars.com/users/IlluminatiFish"><img alt="Codewars" align="center" src="https://img.shields.io/badge/-Codewars-e61c1c?style=flat&logo=codewars&logoColor=white" /></a>
