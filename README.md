@@ -18,13 +18,18 @@ to the best of my ability. Currently, I use the following technologies for my pr
 
 I also have minor experience in the following technologies:
 
-<img alt="C#" align="center" src="https://img.shields.io/badge/-C%23-088512?style=flat&logo=c-sharp&logoColor=white" /> <img alt=" C++" align="center" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" /> <img alt="Scala" align="center" src="https://img.shields.io/badge/-Scala-c21d3b?style=flat&logo=scala&logoColor=white" /> <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" />
-
+<img alt="C#" align="center" src="https://img.shields.io/badge/-C%23-088512?style=flat&logo=c-sharp&logoColor=white" /> <img alt=" C++" align="center" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" /> <img alt="Scala" align="center" src="https://img.shields.io/badge/-Scala-c21d3b?style=flat&logo=scala&logoColor=white" />
 <br>
 
 Other technologies I have used extensively in the past:
 
 <img alt="MySQL" align="center" src="https://img.shields.io/badge/-MySQL-de9000?style=flat&logo=mysql&logoColor=white" /> <img alt="Apache" align="center" src="https://img.shields.io/badge/-Apache-bf36ab?style=flat&logo=apache&logoColor=white" /> <img alt="JARM" align="center" src="https://img.shields.io/badge/-JARM-06b0d6?style=flat&logo=salesforce&logoColor=white" />
+
+<br>
+
+Currently Learning:
+
+<img alt="Vim" align="center" src="https://img.shields.io/badge/-Vim-00fafa?style=flat&logo=vim&logoColor=white" /> <img alt="Linux" align="center" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white" /> <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" />
 
 <br>
 
