@@ -5,6 +5,8 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=IlluminatiFish&theme=midnight-purple&layout=compact&hide_border=true&langs_count=25">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=IlluminatiFish&theme=midnight-purple&hide_border=true">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=IlluminatiFish&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
 
 Hi 👋, my name is IlluminatiFish, I am a self-taught developer that has a passion for programming, mathematics and cyber security.
 
