@@ -31,7 +31,7 @@ Other technologies I have used extensively in the past:
 
 Currently Learning:
 
-<img alt="Vim" align="center" src="https://img.shields.io/badge/-Vim-26f211?style=flat&logo=vim&logoColor=white" /> <img alt="Ubuntu" align="center" src="https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=linux&logoColor=white" /> <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" /> <img alt="Bash" align="center" src="https://img.shields.io/badge/-Bash-2b29ff?style=flat&logo=gnu%20bash&logoColor=white" /> <img alt="XML" align="center" src="https://img.shields.io/badge/-XML-cf2b38?style=flat&logo=files&logoColor=white" />
+<img alt="Vim" align="center" src="https://img.shields.io/badge/-Vim-26f211?style=flat&logo=vim&logoColor=white" /> <img alt="Ubuntu" align="center" src="https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=linux&logoColor=white" /> <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" /> <img alt="Bash" align="center" src="https://img.shields.io/badge/-Bash-2b29ff?style=flat&logo=gnu%20bash&logoColor=white" /> <img alt="XML" align="center" src="https://img.shields.io/badge/-XML-cf2b38?style=flat&logo=files&logoColor=white" /> <img alt="Juypter Notebook" align="center" src="https://img.shields.io/badge/-Juypter%20Notebook-1ffa11?style=flat&logo=jupyter&logoColor=white" />
 
 <br>
 
