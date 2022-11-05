@@ -1,3 +1,6 @@
+![VaccinatorSecurityLogo_1024x335](https://user-images.githubusercontent.com/45714340/200142093-19f7f2b4-a309-4cb5-80d4-a8efb2a5966e.png)
+
+
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=IlluminatiFish.IlluminatiFish&color=6a0094&text=Visitors&style=flat&logo=falcon">
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=IlluminatiFish&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
@@ -38,3 +41,5 @@ Currently Learning:
 Contact & Other
 
 <a href="https://twitter.com/fish_illuminati"><img alt="Twitter" align="center" src="https://img.shields.io/badge/-Twitter-06b0d6?style=flat&logo=twitter&logoColor=white" /></a> <a href="https://gist.github.com/IlluminatiFish"><img alt="Gist" align="center" src="https://img.shields.io/badge/-Gist-000000?style=flat&logo=github&logoColor=white" /></a> <a href="https://codewars.com/users/IlluminatiFish"><img alt="Codewars" align="center" src="https://img.shields.io/badge/-Codewars-e61c1c?style=flat&logo=codewars&logoColor=white" /></a> <a href="https://virustotal.com/gui/user/IlluminatiFish"><img alt="VirusTotal" align="center" src="https://img.shields.io/badge/-VirusTotal-001fe6?style=flat&logo=virustotal&logoColor=white" /></a>
+
+
