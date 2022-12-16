@@ -31,7 +31,7 @@ Other technologies I am familiar with:
 
 Currently Learning:
 
-<img alt="Vim" align="center" src="https://img.shields.io/badge/-Vim-abb441?style=flat&logo=vim&logoColor=white" /> <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" /> <img alt="Kali" align="center" src="https://img.shields.io/badge/-Kali-0f8600?style=flat&logo=linux&logoColor=white" /> 
+<img alt="Vim" align="center" src="https://img.shields.io/badge/-Vim-abb441?style=flat&logo=vim&logoColor=white" /> <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" /> <img alt="Kali" align="center" src="https://img.shields.io/badge/-Kali-0f8600?style=flat&logo=linux&logoColor=white" /> <img alt="Go" align="center" src="https://img.shields.io/badge/-Go-0f8990?style=flat&logo=go&logoColor=white" /> 
 
 <br>
 
