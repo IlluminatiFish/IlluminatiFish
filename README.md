@@ -6,7 +6,7 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=IlluminatiFish&theme=midnight-purple&hide_border=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=IlluminatiFish&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
+<img width="50%" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=IlluminatiFish&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
 
 Hi 👋, my name is IlluminatiFish, I am a self-taught developer that has a passion for programming, mathematics and cyber security.
 
@@ -31,7 +31,7 @@ Other technologies I am familiar with:
 
 Currently Learning:
 
-<img alt="Vim" align="center" src="https://img.shields.io/badge/-Vim-abb441?style=flat&logo=vim&logoColor=white" /> <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" /> <img alt="Kali" align="center" src="https://img.shields.io/badge/-Kali-0f8600?style=flat&logo=linux&logoColor=white" /> <img alt="Go" align="center" src="https://img.shields.io/badge/-Go-0f8990?style=flat&logo=go&logoColor=white" /> <img alt="Metasploit" align="center" src="https://img.shields.io/badge/-Metasploit-a97fff?style=flat&logo=linux&logoColor=white" /> 
+<img alt="Vim" align="center" src="https://img.shields.io/badge/-Vim-abb441?style=flat&logo=vim&logoColor=white" /> <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" /> <img alt="Kali" align="center" src="https://img.shields.io/badge/-Kali-0f8600?style=flat&logo=linux&logoColor=white" /> <img alt="Go" align="center" src="https://img.shields.io/badge/-Go-0f8990?style=flat&logo=go&logoColor=white" /> <img alt="Metasploit" align="center" src="https://img.shields.io/badge/-Metasploit-3220af?style=flat&logo=linux&logoColor=white" /> 
 
 <br>
 
