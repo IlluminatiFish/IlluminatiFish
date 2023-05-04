@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=IlluminatiFish.IlluminatiFish&left_text=Visitors&right_color=purple">
+<img src="https://komarev.com/ghpvc/?username=IlluminatiFish&label=Visitors&color=8112ff&style=flat">
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=IlluminatiFish&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
